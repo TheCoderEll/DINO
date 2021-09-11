@@ -1,1 +1,4 @@
-Runner.instance_.gameOver = () => {};
+funtion run(){
+  Runner.instance_.gameOver = () => {};
+}
+run()
